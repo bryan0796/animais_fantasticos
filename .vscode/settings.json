@@ -1,0 +1,7 @@
+{
+  "editor.inlineSuggest.enabled": true,
+  "editor.suggest.preview": false,
+  "editor.suggest.showInlineDetails": true,
+  "diffEditor.codeLens": false,
+  "editor.inlayHints.enabled": "on"
+}
