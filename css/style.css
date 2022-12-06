@@ -135,6 +135,9 @@ body {
   margin-right: 10px;
   background: #fb5;
 }
+dt:hover {
+  cursor: pointer;
+}
 .faq-lista dd {
   font-family: Helvetica, arial;
   margin-bottom: .5rem;
