@@ -2,12 +2,12 @@ export default class ScrollSuave {
   constructor(links, options) {
     this.linksInternos = document.querySelectorAll(links);
     if (options === undefined) {
-      this.options = { 
+      this.options = {
         behavior: 'smooth',
-        block: 'start'
-      } 
+        block: 'start',
+      };
     } else {
-      this.options = options
+      this.options = options;
     }
     this.scrollToSection = this.scrollToSection.bind(this);
   }
@@ -24,7 +24,7 @@ export default class ScrollSuave {
     //   top: topo,
     //   behavior: 'smooth',
     // });
-  };
+  }
 
   addLinkEvent() {
     this.linksInternos.forEach((link) => {
@@ -38,5 +38,4 @@ export default class ScrollSuave {
     }
     return this;
   }
-
 }
