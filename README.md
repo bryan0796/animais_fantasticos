@@ -14,3 +14,4 @@ Neste projeto pude por diversas funcionalidades da linguagem aprendidas no curso
   * e outros ...
 
 O projeto foi todo feito usando JavaScript puro e sem plugins, para um bom aperfeiçoamento do aprendizado.
+Link para o projeto: https://bryan0796.github.io/animais_fantasticos/
